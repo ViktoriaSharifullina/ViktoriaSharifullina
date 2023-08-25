@@ -21,15 +21,15 @@
 ### :woman_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Russia.
 
-:book: I'm a final year student at Moscow Institute of Electronic Technology, passionate about web development.
+- :book: I'm a final year student at Moscow Institute of Electronic Technology, passionate about web development.
 
-🚀 I love the endless possibilities in web development – from creative problem-solving to unique project creation.
+- 🚀 I love the endless possibilities in web development – from creative problem-solving to unique project creation.
 
-🌱 I'm always eager to learn and grow.
+- 🌱 I'm always eager to learn and grow.
 
-🏃 Beyond coding, I enjoy running, analog photography, and diving into good books.
+- 🏃 Beyond coding, I enjoy running, analog photography, and diving into good books.
 
-🤝 Collaboration is my strength – I listen, embrace feedback, and contribute to achieving our goals.
+- 🤝 Collaboration is my strength – I listen, embrace feedback, and contribute to achieving our goals.
 
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-hom0sapienz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hom0sapienz)
