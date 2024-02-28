@@ -19,7 +19,7 @@
 </p>
 
 ### :woman_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Russia.
+I am a Web Developer  from Russia.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-hom0sapienz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hom0sapienz)
 
