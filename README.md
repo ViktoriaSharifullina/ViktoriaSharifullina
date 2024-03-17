@@ -23,10 +23,9 @@
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViktoriaSharifullina" alt="GitHub Streak"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaSharifullina&langs_count=6&layout=compact&theme=transparent&hide=python,c%23" alt="Top Langs"></td>
-    </tr>
-  </table>
+      <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaSharifullina&langs_count=6&layout=compact&theme=calm-pinkt&hide=python,c%23" alt="Top Langs"></a>
+</p>
+
+<p align="center">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktoriaSharifullina&theme=calm-pink&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a>
 </p>
