@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vika</h1>
 <p align="center">
 <a href="https://t.me/v_sharifullina" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
-<a href="viktoriasharifullina@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://viktoriasharifullina@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
